@@ -1,0 +1,10 @@
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\bin\Debug\MyClassLibrary.dll
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\bin\Debug\MyClassLibrary.pdb
+C:\Users\mosta\source\repos\Myformsapplication\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.deps.json
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.dll
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\bin\Debug\netstandard2.0\MyClassLibrary.pdb
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.AssemblyInfo.cs
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.dll
+C:\Users\mosta\source\repos\Myformsapplication\MyClassLibrary\obj\Debug\netstandard2.0\MyClassLibrary.pdb
